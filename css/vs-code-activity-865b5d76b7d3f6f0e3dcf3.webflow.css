@@ -1574,10 +1574,15 @@ figcaption {
   color: var(--200);
 }
 
+.my-class{
+  color:orange;
+  font-size:100px;
+}
+
 .make-me-pretty {
-  color: var(--100);
+  color:red;
   text-align: center;
-  background-color: #ffffff14;
+  background-color:white;
   border-radius: .5rem;
   flex: none;
   min-height: 3.5rem;
